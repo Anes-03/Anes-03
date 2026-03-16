@@ -8,7 +8,7 @@ Passionate about Apple, Linux and AI. What started with a Raspberry Pi as a NAS 
 
 I also run **[252425 HOMELAB](https://252425.xyz)** — recently teamed up with [@techy252425](https://github.com/techy252425) to take it further. We experiment with self-hosted services, networking, and whatever else seems worth breaking. Documented at **[blog.252425.xyz](https://blog.252425.xyz)**.
 
-I also run **[252425 HOMELAB](https://252425.xyz)** together with [@techy252425](https://github.com/techy252425) — a personal lab where we experiment with self-hosted services, networking, and whatever else seems worth breaking. We occasionally document things over at **[blog.252425.xyz](https://blog.252425.xyz)**.
+
 
 ---
 
