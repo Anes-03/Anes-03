@@ -4,7 +4,7 @@
 
 ---
 
-I love playing with AI, building tools, and working on projects that sit at the intersection of software and everyday life. Into Apple platforms, Linux, and anything that pushes what's possible.
+Passionate about Apple, Linux and AI — I build tools I actually want to use myself, run my own Homelab full of experiments, and occasionally turn random ideas into real projects. If there's a problem, I'll probably build something for it. Sometimes it works. Sometimes it doesn't. Either way — worth it.
 
 I also run **[252425 HOMELAB](https://252425.xyz)** together with [@techy252425](https://github.com/techy252425) — a personal lab where we experiment with self-hosted services, networking, and whatever else seems worth breaking. We occasionally document things over at **[blog.252425.xyz](https://blog.252425.xyz)**.
 
