@@ -19,9 +19,14 @@ I also run **[252425 HOMELAB](https://252425.xyz)** together with [@techy252425]
 | ✏️ | [Markdown WebEditor](https://github.com/Anes-03/Markdown-WebEditor) | Client-side Markdown editor with live preview, works offline |
 | 💻 | [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) | Browser-based code editor |
 | 🥽 | [YouVision](https://github.com/Anes-03/YouVision) | YouTube experience for Apple Vision Pro |
+| 🔐 | [Hacking Escape Room](https://github.com/Anes-03/Hacking-Escape-Room) | Interactive cybersecurity escape room experience |
+| 📖 | [Escape Room Dorian Gray](https://github.com/Anes-03/Escape-Room-The-Picture-of-Dorian-Gray) | Literary escape room based on The Picture of Dorian Gray |
 | 🌦️ | [252425 Wetter](https://github.com/Anes-03/252425-Wetter) | Weather app |
 | 📺 | [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for the A-Ultra YouTube channel |
 | 🏠 | [252425 Homelab](https://github.com/Anes-03/252425-Homelab) | Homelab projects & experiments |
+| 📰 | [Homelab Blog](https://github.com/Anes-03/252425-Homelab-Blog) | Homelab blog |
+| 🌐 | [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |
+| 🌐 | [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) | Website for MenuPy |
 
 ---
 
