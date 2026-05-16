@@ -49,8 +49,4 @@ I also run **[252425 HOMELAB](https://252425.xyz)** — recently teamed up with 
 [![Blog](https://img.shields.io/badge/blog.252425.xyz-1a1a2e?style=for-the-badge&logo=rss&logoColor=white)](https://blog.252425.xyz)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anes-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anes-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
 </div>
