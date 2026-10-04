@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Book icon</title>
+  <rect width="64" height="64" rx="14" fill="#f4efe5"/>
+  <g fill="none" stroke="#76532b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 20c-6-4-13-5-22-3v29c9-2 16-1 22 3 6-4 13-5 22-3V17c-9-2-16-1-22 3Z"/>
+    <path d="M32 20v29M17 25c3 0 6 1 9 2M17 33c3 0 6 1 9 2M38 27c3-1 6-2 9-2M38 35c3-1 6-2 9-2"/>
+  </g>
+</svg>

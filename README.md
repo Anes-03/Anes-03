@@ -16,12 +16,14 @@ I also run **[252425 HOMELAB](https://252425.xyz)**. I experiment with self-host
 
 | | Project | Description |
 |---|--------|-------------|
-| ✏️ | [Markdown WebEditor](https://markdown-webeditor.252425.xyz) | Client-side Markdown editor with live preview, works offline |
-| 🔐 | [Hacking Escape Room](https://hackingescaperoom.252425.xyz) | Interactive cybersecurity escape room experience |
-| 🚀 | [LaunchSprint](https://launchsprint.252425.xyz) | Custom app launcher for macOS — fullscreen grid, folders & global hotkey |
-| 🐍 | [MenuPy](https://menupy.252425.xyz) | Run Python scripts directly from the macOS menu bar |
-| 📖 | [Escape Room Dorian Gray](https://github.com/Anes-03/Escape-Room-The-Picture-of-Dorian-Gray) | Literary escape room based on The Picture of Dorian Gray |
-| 📺 | [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for the A-Ultra YouTube channel |
+| <img src="assets/projects/narracam.svg" width="36" alt="NarraCam icon" /> | [NarraCam](https://narracam.com) | A camera that describes before you capture — with speech output, local AI & a photo and video library |
+| <img src="assets/projects/hacking-escape-room.svg" width="36" alt="Hacking Escape Room logo" /> | [Hacking Escape Room](https://hackingescaperoom.252425.xyz) | Interactive cybersecurity escape room experience |
+| <img src="assets/projects/252425-homelab.svg" width="36" alt="252425 HOMELAB logo" /> | [252425 HOMELAB](https://252425.xyz) | Self-hosting, local AI, networking & hands-on projects from my homelab |
+| <img src="assets/projects/a-ultra.svg" width="36" alt="A-Ultra logo" /> | [A-Ultra Website](https://a-ultra.com) | Official website for the A-Ultra YouTube channel |
+| <img src="assets/projects/markdown-webeditor.svg" width="36" alt="Markdown WebEditor logo" /> | [Markdown WebEditor](https://markdown-webeditor.252425.xyz) | Client-side Markdown editor with live preview, works offline |
+| <img src="assets/projects/launchsprint.svg" width="36" alt="LaunchSprint icon" /> | [LaunchSprint](https://launchsprint.252425.xyz) | Custom app launcher for macOS — fullscreen grid, folders & global hotkey |
+| <img src="assets/projects/menupy.svg" width="36" alt="MenuPy icon" /> | [MenuPy](https://menupy.252425.xyz) | Run Python scripts directly from the macOS menu bar |
+| <img src="assets/projects/dorian-gray.svg" width="36" alt="Book icon" /> | [Escape Room Dorian Gray](https://github.com/Anes-03/Escape-Room-The-Picture-of-Dorian-Gray) | Literary escape room based on The Picture of Dorian Gray |
 
 ---
 
