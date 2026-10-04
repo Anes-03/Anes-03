@@ -20,10 +20,12 @@ I also run **[252425 HOMELAB](https://252425.xyz)**. I experiment with self-host
 | <img src="assets/projects/hacking-escape-room.svg" width="36" alt="Hacking Escape Room logo" /> | [Hacking Escape Room](https://hackingescaperoom.252425.xyz) | Interactive cybersecurity escape room experience |
 | <img src="assets/projects/252425-homelab.svg" width="36" alt="252425 HOMELAB logo" /> | [252425 HOMELAB](https://252425.xyz) | Self-hosting, local AI, networking & hands-on projects from my homelab |
 | <img src="assets/projects/a-ultra.svg" width="36" alt="A-Ultra logo" /> | [A-Ultra Website](https://a-ultra.com) | Official website for the A-Ultra YouTube channel |
+| <img src="assets/projects/aultra-unified.svg" width="36" alt="AI model icon" /> | [AUltra Unified](https://huggingface.co/Anes-03/aultra-unified) | Experimental defensive cybersecurity & coding model, fine-tuned on Apple Silicon.<br>[Dataset](https://huggingface.co/datasets/Anes-03/aultra-unified-training-data) · [Fine-tuning blog post](https://blog.252425.xyz/posts/zwei-fine-tuning-projekte-auf-einem-m4-mac-mini/) |
 | <img src="assets/projects/markdown-webeditor.svg" width="36" alt="Markdown WebEditor logo" /> | [Markdown WebEditor](https://markdown-webeditor.252425.xyz) | Client-side Markdown editor with live preview, works offline |
 | <img src="assets/projects/launchsprint.svg" width="36" alt="LaunchSprint icon" /> | [LaunchSprint](https://launchsprint.252425.xyz) | Custom app launcher for macOS — fullscreen grid, folders & global hotkey |
 | <img src="assets/projects/menupy.svg" width="36" alt="MenuPy icon" /> | [MenuPy](https://menupy.252425.xyz) | Run Python scripts directly from the macOS menu bar |
 | <img src="assets/projects/dorian-gray.svg" width="36" alt="Book icon" /> | [Escape Room Dorian Gray](https://github.com/Anes-03/Escape-Room-The-Picture-of-Dorian-Gray) | Literary escape room based on The Picture of Dorian Gray |
+| <img src="assets/projects/hacker-adventskalender-2025.svg" width="36" alt="Hacker Adventskalender 2025 logo" /> | [Hacker Adventskalender 2025](https://adventskalender-2025.hackingescaperoom.tech) | Interactive advent calendar with 31 cybersecurity lessons & mini-games in a retro cyber style |
 
 ---
 

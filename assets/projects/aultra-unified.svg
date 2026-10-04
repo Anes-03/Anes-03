@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>AI model icon</title>
+  <rect width="64" height="64" rx="14" fill="#202039"/>
+  <g fill="none" stroke="#c1b7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="15" y="24" width="34" height="26" rx="7"/>
+    <path d="M32 18v6M9 33v9M55 33v9M26 43h12"/>
+    <circle cx="32" cy="15" r="3"/>
+  </g>
+  <g fill="#c1b7ff">
+    <circle cx="25" cy="34" r="3"/>
+    <circle cx="39" cy="34" r="3"/>
+  </g>
+</svg>
